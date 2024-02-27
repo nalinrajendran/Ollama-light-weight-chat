@@ -1,4 +1,3 @@
-```markdown
 # Light-Weight OLLAMA Chatbot Interface
 
 This project provides a lightweight chat interface for interacting with OLLAMA chatbot models using Streamlit. It allows users to select a model, configure parameters, and engage in a conversation with the chatbot.
@@ -52,5 +51,4 @@ Contributions are welcome! Here are some features that could be added:
 Feel free to fork the repository and submit a pull request with your changes.
 
 
-```
 
